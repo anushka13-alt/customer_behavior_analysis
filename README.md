@@ -1,9 +1,6 @@
 # customer_behavior_analysis
 Data Analytics project showcasing customer behavior analysis using MySQL, Python and Power BI
 
-
-Here’s a clean, professional, recruiter-friendly README you can directly use 👇
-
 ## Overview
 
 This project focuses on end-to-end data analytics, starting from raw data processing to generating business insights through visualization. It demonstrates practical skills in data cleaning, exploratory data analysis (EDA), SQL querying, and dashboard creation.
